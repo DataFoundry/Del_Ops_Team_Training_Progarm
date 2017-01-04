@@ -1,4 +1,4 @@
-# OCDF交付运维人员培训课程
+# OCDF交付运维人员培训计划
 ## 目录
 1. OCDF(Openshift、Kubernetes)关键要素  
 	* Openshift Master（ApiServer、Controller）     
